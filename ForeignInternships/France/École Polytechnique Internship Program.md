@@ -20,9 +20,9 @@ If the student already benefits from a grant, the financial support from this pr
 
 ## Accommodation
 
-The École polytechnique offers exchange students access to student residences on campus, according to availability. Please note that on-campus accommodation is not guaranteed. The assignment of accommodation is confirmed shortly after admission to the international academic exchange program or the research program for international talents.
+The École Polytechnique offers exchange students access to student residences on campus, according to availability. Please note that on-campus accommodation is not guaranteed. The assignment of accommodation is confirmed shortly after admission to the international academic exchange program or the research program for international talents.
 
-Should it not be possible to offer accommodation to all students requesting it, the École polytechnique will provide the necessary information to help students find their own accommodation.
+Should it not be possible to offer accommodation to all students requesting it, the École Polytechnique will provide the necessary information to help students find their own accommodation.
 
 ## Visa
 

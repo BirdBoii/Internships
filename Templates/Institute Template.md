@@ -6,11 +6,14 @@
 ### Details of Exchange program
 
 - Duration
+- Nomination Process
 - Fees/Stipend
+- Expenses Management
+- Accommodation
+- Visa
 - Acceptance rate
+
 ### Nomination Details
 
-### Facilities Provided
 
-Accommodation and other facilities.
 
