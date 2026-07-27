@@ -18,8 +18,8 @@ Mathematics-
 Mathematical modeling, statistical analysis, simulation algorithms, control theory implementation, data analytics for beam dynamics.
 
 #### Other Domains
-![[Pasted image 20260727170821.png]]
 
+Applied Physics, Civil Engineering, Data Sci and Data Analytics, Electrical or Electronics, Exp Physics, Health safety and env, Mat and Surface Sci, Mathematics, Mechanical Engineering, Software Engineering and IT.
 
 ### Details of Exchange program
 
@@ -29,7 +29,23 @@ Mathematical modeling, statistical analysis, simulation algorithms, control theo
 
 #### Nomination Process
 
-![[Pasted image 20260727165847.png]]
+##### Recruitment process for this programme
+
+1. Submit application
+
+Apply with your CV (in English or French) and complete the online application before the deadline.
+
+**Optional:** Add an academic reference letter and transcript.
+
+2. Application review and interview
+
+Your application will be reviewed, and you may be invited to take part in an online interview with the hiring manager(s) to discuss your application, CERN, and the position, and for you both to determine if it could be a good fit.
+
+3. Offer and onboarding
+
+If you are successful, you will receive an offer. Once you accept, your onboarding journey begins!
+
+
 The selection process in not directly dependent on grades
 
 #### Stipend  and Expenses Management- 

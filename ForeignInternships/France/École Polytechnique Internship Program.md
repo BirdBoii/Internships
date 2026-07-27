@@ -9,9 +9,6 @@ Research domains - Maths, Computer Science, Physics, Mechanics and Hydrodynamics
 
 Partner institutions must send their list of preselected candidates to the International Affairs Office via email to the contact person, including the name of the student, the program and level of study at the student’s home university, as well as the student’s date of birth.
 
-![[Pasted image 20260725122530.png]]
-
-
 ## Expenses Management
 
 A monthly stipend ranging from €550 to €750 will be provided to cover accommodation, meals and personal expenses (the amount will be defined according to different factors including the cost of living in the student's home country). This stipend includes health coverage. For some countries, the roundtrip airfare may be covered by the Program in the form of a flat amount.
@@ -30,6 +27,25 @@ Depending on the country, students may need an entry visa or a study permit. App
 
 Exchange students are responsible for their own visa applications and for joining us with the right visa. For more information, please contact your local French Consulate.
 
+
+### Application and Nomination Details
+
+**CALENDAR 2026**
+
+The selection procedure is carried out according to the following calendar:
+
+- **November 2025:** Research subjects are published
+- **Beginning of December 2025:** Applications open
+- **January 12th, 2026:** Nomination deadline for partner universities
+- **January 19th, 2026:** Application deadline
+- **Early March 2026:** Admission results are announced
+
+The research program may begin in June/July of the program year at the earliest and end by December 31st of the same year at the latest.
+
+Please note that application dates will be updated in November.
+
+
+### References
 
 https://programmes.polytechnique.edu/en/exchange-programs/research-program-for-international-talents/how-to-apply
 
