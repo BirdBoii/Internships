@@ -60,6 +60,5 @@ English or French
 
 Applications open 6th August 
 
-
-
-
+### References
+https://careers.cern/programmes/technical-studentship/

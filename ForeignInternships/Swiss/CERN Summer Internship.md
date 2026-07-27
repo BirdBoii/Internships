@@ -26,6 +26,8 @@ IT, Computer Science, and cutting-edge software engineering
 
 CV, academic transcripts, and at least one reference letter
 
+Because selection depends on finding a match for active lab work, candidates with hands-on lab experience, open-source software contributions, or robotics team projects often get picked over those with purely theoretical academic backgrounds.
+
 You have to had completed at least 3 years before starting the internship. You can also apply after completing UG Provided that the semester is completed just before joining.
 
 #### Fees/Stipend and Expenses Management
@@ -44,9 +46,28 @@ If you need a visa for Switzerland/France, CERN sends an official invitation let
 
 #### Acceptance rate
 
+They vary according to the needs of CERN
+
+##### Openlab
+
+1% or lower
+Typically, over **3,800 to 6,600 students apply** for just **30 to 40 spots**
+
+##### General
+
+2.1%
+CERN receives around **9,000 to 10,000 applications** annually for roughly **300 to 350 available spots**
+Applicants from non-member states or member states with massive applicant pools (like India) face sub-1% acceptance rates.
+
 #### Languages
 
+English or French
 
 ### Application and Nomination Details
 
 Applications open in November and closes in late January.
+
+
+### References
+
+https://home.cern/summer-student-programme/
