@@ -2,12 +2,20 @@
 ## About uni-
 
 QS - 43
+
+
+### Main Domains
+
 Research domains - Maths, Computer Science, Physics, Mechanics and Hydrodynamics, Chem and bio, Eco and Social Sciences
 
 
 ### Nomination
 
 Partner institutions must send their list of preselected candidates to the International Affairs Office via email to the contact person, including the name of the student, the program and level of study at the student’s home university, as well as the student’s date of birth.
+
+- Minimum GPA of 3.0 out of 4.0 or top-tier ranking in current science/engineering degree.
+- High proficiency in mathematics and relevant STEM subjects.
+- Academic transcripts, statement of motivation, and faculty recommendations.
 
 ## Expenses Management
 
@@ -27,7 +35,9 @@ Depending on the country, students may need an entry visa or a study permit. App
 
 Exchange students are responsible for their own visa applications and for joining us with the right visa. For more information, please contact your local French Consulate.
 
+#### Acceptance Rate
 
+10-11%
 ### Application and Nomination Details
 
 **CALENDAR 2026**
